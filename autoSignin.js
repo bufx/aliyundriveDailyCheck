@@ -1,4 +1,5 @@
 /*
+new Env('阿里云盘签到')
 cron "0 9 * * *" autoSignin.js, tag=阿里云盘签到
 */
 
